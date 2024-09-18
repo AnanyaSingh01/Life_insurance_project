@@ -11,7 +11,7 @@ namespace WebApplication13
 {
 
 
-    public partial class Adminlogin
+     public partial class Adminlogin
     {
 
         /// <summary>
