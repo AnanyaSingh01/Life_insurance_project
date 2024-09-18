@@ -9,7 +9,7 @@ using System.Web.SessionState;
 
 namespace WebApplication13
 {
-    public class Global : HttpApplication
+     public class Global : HttpApplication
     {
         void Application_Start(object sender, EventArgs e)
         {
